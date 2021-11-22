@@ -51,11 +51,6 @@ namespace Cocos2dxXmlMaker
                         var w = Convert.ToInt32(column.Split(',')[0]);
                         var h = Convert.ToInt32(column.Split(',')[1]);
 
-                        if (colNo == 1)
-                        {
-                            y += h;
-                        }
-
                         var item = @"
    <key>tile"+ rowNo+"-"+ colNo + "" + @"</key>
    <dict>
@@ -74,6 +69,10 @@ namespace Cocos2dxXmlMaker
 
                         
                         x += w;
+                        if (colNo == 1)
+                        {
+                            y += h;
+                        }
                         colNo++;
                     }
                     x = 0;
