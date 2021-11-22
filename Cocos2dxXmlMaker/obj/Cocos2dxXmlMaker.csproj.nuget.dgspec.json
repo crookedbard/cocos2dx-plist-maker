@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\be5034\\source\\repos\\Cocos2dxXmlMaker\\Cocos2dxXmlMaker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\be5034\\source\\repos\\Cocos2dxXmlMaker\\Cocos2dxXmlMaker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\be5034\\source\\repos\\Cocos2dxXmlMaker\\Cocos2dxXmlMaker.csproj",
+        "projectName": "Cocos2dxXmlMaker",
+        "projectPath": "C:\\Users\\be5034\\source\\repos\\Cocos2dxXmlMaker\\Cocos2dxXmlMaker.csproj",
+        "packagesPath": "C:\\Users\\be5034\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\be5034\\source\\repos\\Cocos2dxXmlMaker\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\be5034\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "http://artifactory.danskenet.net/artifactory/api/nuget/db-nuget-Derit": {},
+          "http://artifactory.danskenet.net/artifactory/api/nuget/db-nuget-FrontOfficeSecurities": {},
+          "http://artifactory.danskenet.net/artifactory/api/nuget/db-nuget-infrahub": {},
+          "http://artifactory.danskenet.net/artifactory/api/nuget/joined-nuget-buildfeed": {},
+          "http://artifactory.danskenet.net/artifactory/api/nuget/remote-nuget-nuget.org": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\obj\Debug\net6.0-windows\Cocos2dxXmlMaker.csproj.AssemblyReference.cache
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\obj\Debug\net6.0-windows\Cocos2dxXmlMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\obj\Debug\net6.0-windows\Cocos2dxXmlMaker.AssemblyInfoInputs.cache
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\obj\Debug\net6.0-windows\Cocos2dxXmlMaker.AssemblyInfo.cs
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\obj\Debug\net6.0-windows\Cocos2dxXmlMaker.csproj.CoreCompileInputs.cache
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\bin\Debug\net6.0-windows\Cocos2dxXmlMaker.exe
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\bin\Debug\net6.0-windows\Cocos2dxXmlMaker.deps.json
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\bin\Debug\net6.0-windows\Cocos2dxXmlMaker.runtimeconfig.json
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\bin\Debug\net6.0-windows\Cocos2dxXmlMaker.dll
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\bin\Debug\net6.0-windows\ref\Cocos2dxXmlMaker.dll
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\bin\Debug\net6.0-windows\Cocos2dxXmlMaker.pdb
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\obj\Debug\net6.0-windows\Cocos2dxXmlMaker.dll
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\obj\Debug\net6.0-windows\ref\Cocos2dxXmlMaker.dll
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\obj\Debug\net6.0-windows\Cocos2dxXmlMaker.pdb
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\obj\Debug\net6.0-windows\Cocos2dxXmlMaker.genruntimeconfig.cache
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\obj\Debug\net6.0-windows\Cocos2dxXmlMaker.Form1.resources
+C:\Users\be5034\source\repos\Cocos2dxXmlMaker\obj\Debug\net6.0-windows\Cocos2dxXmlMaker.csproj.GenerateResource.cache
