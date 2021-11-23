@@ -46,16 +46,11 @@ namespace Cocos2dxXmlMaker
                     var columns = row.Split(';');
                     foreach (var column in columns)
                     {
-                        if (string.IsNullOrEmpty(column)) break;
+                        if (string.IsNullOrEmpty(column)) throw new InvalidOperationException("All cells in table should be filled.");
 
                         var w = Convert.ToInt32(column.Split(',')[0]);
                         var h = Convert.ToInt32(column.Split(',')[1]);
-
-                        if (colNo == 1 && rowNo > 1)
-                        {
-                            y += h;
-                        }
-
+						
                         var item = @"
    <key>tile"+ rowNo+"-"+ colNo + "" + @"</key>
    <dict>
@@ -72,8 +67,11 @@ namespace Cocos2dxXmlMaker
    </dict>";
                         textBox1.Text += item + Environment.NewLine;
 
-                        
                         x += w;
+                        if (colNo == columns.Count())
+                        {
+                            y += h;
+                        }
                         colNo++;
                     }
                     x = 0;
