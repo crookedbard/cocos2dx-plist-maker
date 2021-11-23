@@ -69,7 +69,7 @@ namespace Cocos2dxXmlMaker
 
                         
                         x += w;
-                        if (colNo == 1)
+                        if (colNo == 1 && rowNo > 1)
                         {
                             y += h;
                         }
